@@ -1,0 +1,14 @@
+[
+    {
+        "ParameterKey": "myVPC",
+        "ParameterValue": "vpc-03a0d2130561a4124"
+      },
+      {
+        "ParameterKey": "PublicSubnet",
+        "ParameterValue": "subnet-07635990da99baa15"
+      },
+      {
+        "ParameterKey": "AMItoUse",
+        "ParameterValue": "ami-0022f774911c1d690"
+      }
+]

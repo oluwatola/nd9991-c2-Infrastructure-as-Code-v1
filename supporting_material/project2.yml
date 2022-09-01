@@ -15,7 +15,7 @@ Resources:
   ProfileWithRolesForOurApp:
     Type: AWS::IAM::InstanceProfile
     Properties: 
-      Roles:
+      Roles:project
         - UdacityS3ReadOnlyEC2
 Outputs: 
   # This is also optional.
